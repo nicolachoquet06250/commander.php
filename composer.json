@@ -1,0 +1,13 @@
+{
+	"name": "nicolas/test_nico",
+	"authors": [
+		{
+			"name": "nicolas.choquet",
+			"email": "nicolas.choquet@lagardere-active.com"
+		}
+	],
+	"require": {
+		"purekid/mongodm": "dev-master",
+		"makasim/yadm": "0.5.7"
+	}
+}
